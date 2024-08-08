@@ -1,0 +1,8 @@
+com\customer\customer\Model\customerdetails$customerdetailsBuilder.class
+com\customer\customer\service\customerservice.class
+com\customer\customer\repository\customerrepository.class
+com\customer\customer\dto\customerrequest$customerrequestBuilder.class
+com\customer\customer\CustomerApplication.class
+com\customer\customer\dto\customerrequest.class
+com\customer\customer\Model\customerdetails.class
+com\customer\customer\controller\customercontroller.class
